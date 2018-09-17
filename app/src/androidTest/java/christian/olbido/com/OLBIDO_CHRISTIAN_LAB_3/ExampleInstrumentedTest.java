@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("christian.olbidol.com.OLBIDO_CHRISTIAN_LAB_3", appContext.getPackageName());
+        assertEquals("christian.olbido.com.OLBIDO_CHRISTIAN_LAB_3", appContext.getPackageName());
     }
 }

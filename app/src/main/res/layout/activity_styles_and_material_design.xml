@@ -34,7 +34,7 @@
         android:layout_marginTop="8dp"
         android:text="SMOKEY TOURS"
         android:textSize="24sp"
-        android:theme="@style/qwe"
+        android:theme="@style/Texts"
         android:typeface="normal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
